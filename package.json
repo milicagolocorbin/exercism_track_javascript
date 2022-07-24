@@ -1,0 +1,17 @@
+{
+  "name": "exercism_track_js",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test-verbose": "vitest --reporter=verbose"
+  },
+  "devDependencies": {
+    "vite": "^8.1.0",
+    "vitest": "^4.1.9"
+  }
+}
