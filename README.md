@@ -1,4 +1,8 @@
-# Exercism Track Javascript - SOlUTIONS
+# Exercism Track Javascript - SOLUTIONS
+
+## Organization
+
+Problems are divided in two folders. First one is `src/learning_exercises` and second one is `src/practice_problems`. Inside them each exercise has separate folder with solution code file and test code file.
 
 ## Run Tests
 
@@ -23,7 +27,3 @@ npm run test src/learning_exercises/01_hello_world/
 npm run test-verbose src/learning_exercises/01_hello_world/
 
 ```
-
-## Organization
-
-Problems are divided in two folders. First one is `learning_exercises` and second one is `practice_problems`. Inside them each exercise has separate folder with solution code file and test code file.
