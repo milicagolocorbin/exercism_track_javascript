@@ -5,7 +5,7 @@ import {
   preparationTimeInMinutes,
   remainingMinutesInOven,
   totalTimeInMinutes,
-} from "./ lucians_luscious_lasagna";
+} from "./lucians_luscious_lasagna";
 
 describe("EXPECTED_MINUTES_IN_OVEN", () => {
   test("constant is defined correctly", () => {
